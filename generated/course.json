@@ -172,6 +172,12 @@
           "shortTitle": "Airdrops",
           "details": "The following table showcases the various factors of Airdrop 1, 2 & 3:\n\n<table>\n<thead>\n  <tr>\n    <th>Categories</th>\n    <th>Airdrop 1</th>\n    <th>Airdrop 2</th>\n    <th>Airdrop 3</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Criteria</td>\n    <td>Rewards those who have been instrumental as early adopters and active users of projects in the Optimism ecosystem &amp; L1 Ethereum. </td>\n    <td>Rewards positive-sum governance participation and power users of OP Mainnet.</td>\n    <td>Similar to Airdrop 2, rewards positive sum governance participation.</td>\n  </tr>\n  <tr>\n    <td>Tokens Distributed</td>\n    <td>Distributed over 200m OP tokens to 250,000 early adopters and engaged users in May 2022.</td>\n    <td>As of February 9th, 2023, distributed more than 55m OP tokens across the ecosystem</td>\n    <td>Distributed over 19,411,313 OP tokens in this airdrop.</td>\n  </tr>\n  <tr>\n    <td>Claiming Process</td>\n    <td>Requires eligible addresses to claim the tokens</td>\n    <td>Tokens are distributed directly to eligible wallets, no claiming needed.</td>\n    <td>Similar to Airdrop 2, Airdrop #3 is disbursed directly to eligible wallets.</td>\n  </tr>\n  <tr>\n    <td>Distribution Date</td>\n    <td>Distributed in May 2022</td>\n    <td>Tokens sent in February 2023</td>\n    <td>Took place in September 2023</td>\n  </tr>\n  <tr>\n    <td>Snapshot Date</td>\n    <td>A snapshot of addresses was taken on 03-25-2022 0:00 UTC.</td>\n    <td>Snapshot taken on 01-20-2023 0:00 UTC.</td>\n    <td>Delegated tokens between 2023-01-20 at 0:00 UTC and 2023-07-20 0:00 UTC.</td>\n  </tr>\n</tbody>\n</table>",
           "title": "Airdrops"
+        },
+        {
+          "key": "references-11",
+          "shortTitle": "References",
+          "details": "https://community.optimism.io/docs/governance/howto-delegate/\n\nhttps://community.optimism.io/docs/governance/economics/\n\nhttps://community.optimism.io/docs/governance/allocations/#\n\nhttps://community.optimism.io/docs/governance/airdrop-1/\n\nhttps://community.optimism.io/docs/governance/airdrop-2/\n\nhttps://community.optimism.io/docs/governance/airdrop-3/",
+          "title": "References"
         }
       ],
       "readings": [],

@@ -292,3 +292,18 @@
     </tbody>
     </table>
   title: Airdrops
+- key: references-11
+  shortTitle: References
+  details: |-
+    https://community.optimism.io/docs/governance/howto-delegate/
+
+    https://community.optimism.io/docs/governance/economics/
+
+    https://community.optimism.io/docs/governance/allocations/#
+
+    https://community.optimism.io/docs/governance/airdrop-1/
+
+    https://community.optimism.io/docs/governance/airdrop-2/
+
+    https://community.optimism.io/docs/governance/airdrop-3/
+  title: References
