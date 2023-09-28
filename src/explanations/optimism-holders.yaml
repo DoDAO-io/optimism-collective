@@ -76,3 +76,72 @@
 
     Once you have been added as a delegate in the next voting cycle, you can
     start voting on governance matters.
+- key: op-economics
+  shortTitle: OP Economics
+  details: >-
+    ### Funding Sources in the OP Economy
+
+
+    The funding for the OP economy comes from the ownership of OP Mainnet and
+    the value of its blockspace. Currently, funding is obtained through the
+    centralized sequencer, which is then redistributed by The Optimism
+    Foundation. However, in the future, funding can be obtained by selling the
+    right to participate in Optimism's decentralized sequencing network. This
+    sustainable revenue source ensures the growth and sustainability of the OP
+    economic model.
+
+
+    Many markets fail to adequately fund and support public goods. Optimism
+    addresses this issue by integrating a sustainable funding source into the
+    network itself. Retroactive Public Goods Funding (RetroPGF) plays a crucial
+    role in distributing sequencer revenue back to the ecosystem. This
+    incentivizes individuals to contribute to the public good of the Optimism
+    Collective. The Citizens' House, through voting, determines the distribution
+    of funds to individuals, teams, projects, or communities that have made a
+    positive impact.
+
+
+    The Foundation expects RetroPGF to drive a wide range of downstream effects,
+    benefiting the entire Optimism Collective. This mechanism not only funds
+    public goods but also provides exit liquidity for early investment in these
+    projects. By creating conditions for experimentation, the Foundation aims to
+    maximize the long-term value for builders, users, tokenholders, citizens,
+    and the entire Optimism Collective.
+
+
+    The Optimism Collective operates on the belief that a healthy ecosystem is
+    built on robust public goods. The economics of this ecosystem are designed
+    to generate value for three key groups: tokenholders, contributors and
+    builders, and users and community members:
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695736350386_untitled-2023-09-26-1601.png"/>
+    </div>
+
+
+    ### Tokenholders
+
+    Tokenholders benefit from the productive re-deployment of sequencer revenue.
+    This revenue is primarily directed towards funding public goods, which not
+    only creates value for the ecosystem but also drives demand for blockspace.
+    As the network grows, the value of tokenholder investments increases.
+
+
+    ### Contributors & Builders
+
+    Contributors and builders play a crucial role in the Optimism Collective.
+    They receive direct benefits from retroactive public goods funding and the
+    markets it enables. Additionally, they benefit from a well-funded ecosystem
+    that provides them with the necessary tools, education, apps, and
+    infrastructure to build and thrive.
+
+
+    ### Users & Community Members
+
+    Users and community members also reap the rewards of the OP ecosystem. They
+    receive ongoing airdrops of OP tokens, project incentives made possible by
+    OP ecosystem funding, and the overall benefits that public goods provide.
+    This creates a symbiotic relationship where the community members contribute
+    to the ecosystem's growth and, in turn, benefit from its success.
+  title: OP Economics
