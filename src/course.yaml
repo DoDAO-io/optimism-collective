@@ -1,13 +1,47 @@
 title: Optimism Collective
 key: optimism-collective
-summary: |
-  This is a course template
+summary: >
+  This course explains everything about Optimism Foundation, its governance
+  structure, as well as information related to OP holders & delegates.
 highlights:
-  - Introduction
-publishStatus: Draft
+  - Optimism Collective
+  - Token House
+  - Citizens' House
+  - Optimism Foundation
+  - Optimism Holders
+  - Delegates
+publishStatus: Live
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png
-details: '## Coming Soon'
+details: >-
+  In this course, we will delve into the fascinating world of Optimism
+  Collective, a leading decentralized platform. Our focus will be on providing
+  you with a comprehensive understanding of its governance structure, the
+  influential Optimism Foundation, the role of OP holders, and the significance
+  of delegates. Additionally, we will explore the critical aspects of grants
+  within the Optimism ecosystem.
+
+
+  Our journey begins with an introduction to Optimism, where we will uncover its
+  essential role in the blockchain landscape. Next, we will explore the
+  governance framework, shedding light on how decisions are made within
+  Optimism. The Optimism Foundation plays a pivotal role in this ecosystem, and
+  we will closely examine its mission and influence.
+
+
+  Grants are essential for driving innovation within Optimism, and we will guide
+  you through the process of securing grants. You'll also have the opportunity
+  to explore success stories of projects funded through Optimism grants.
+
+
+  Lastly, this course continues by delving into the world of OP holders and
+  delegates, elucidating their roles and significance in Optimism's governance
+  structure. We will explore how these stakeholders shape the ecosystem's
+  direction.
+
+
+  This course is designed to empower you with the knowledge and insights needed
+  to engage with and contribute to the growth of Optimism.
 duration: 30 mins - 1 hour
 topics:
   - key: introduction
@@ -391,8 +425,7 @@ topics:
       maintenance activities.
     explanations: delegates.yaml
 courseAdmins:
-  - '0x34d014758297c00fea49935fce172677904d51ef'
-  - '0x2a6af0619be90d129ab0d70c10e25c097b6ec67d'
+  - ''
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
   showExplanations: true
