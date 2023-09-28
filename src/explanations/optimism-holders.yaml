@@ -145,3 +145,102 @@
     This creates a symbiotic relationship where the community members contribute
     to the ecosystem's growth and, in turn, benefit from its success.
   title: OP Economics
+- key: op-allocations
+  shortTitle: OP Allocations
+  details: >
+    The following table & diagram  showcases the OP token allocations:
+
+
+    <table>
+
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Percentage</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>Ecosystem Fund</td>
+        <td>25%</td>
+        <td>The Ecosystem Fund is a proactive program meant to stimulate development in the Collective ecosystem by providing funding to projects and communities</td>
+      </tr>
+      <tr>
+        <td>User Airdrops</td>
+        <td>19%</td>
+        <td>A series of airdrops to reward users for specific helpful behaviors, beginning with Airdrop #1</td>
+      </tr>
+      <tr>
+        <td>RetroPGF</td>
+        <td>20%</td>
+        <td>RetroPGF is the Optimism Collective’s primary mechanism to adequately and reliably reward public goods for the impact they provide</td>
+      </tr>
+      <tr>
+        <td>Sugar Xaddies</td>
+        <td>17%</td>
+        <td>Investors</td>
+      </tr>
+      <tr>
+        <td>Core Contributors</td>
+        <td>19%</td>
+        <td>The people who’ve been working tirelessly to bring the Optimism Collective into existence</td>
+      </tr>
+    </tbody>
+
+    </table>
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/a52929b2_2fda_47ee_befc_e3977a8cdedc/1695733353942_untitled-2023-09-21-1651.png"/>
+    </div>
+
+
+    ### Ecosystem Fund
+
+
+    The Ecosystem Fund is an incentive program designed to stimulate the
+    development of the Collective ecosystem. This fund will directly support the
+    communities and companies that drive the expansion of the Collective
+    ecosystem, known as OPCOs. The allocation dedicated to the Ecosystem Fund
+    will be further divided into different categories. It is important to
+    mention that the Ecosystem Fund is intended to be a kick-starting mechanism
+    that will eventually be phased out once the OP in the fund has been
+    depleted.
+
+
+    ### Airdrops
+
+
+    The Optimism Foundation aims to reward and attract users from both the
+    Optimism and Ethereum communities through the distribution of OP tokens.
+    This distribution will occur in multiple waves, with the first wave being
+    Airdrop #1. Airdrop #1 was designed to cast a wide net and distribute OP to
+    over 250k addresses. To ensure fairness, the eligibility criteria for this
+    airdrop can be found in the Airdrop #1 documentation. Additionally, 14% of
+    the OP token supply will be reserved for future user airdrops.
+
+
+    ### RetroPGF
+
+
+    An allocation of 8.8% of the OP token supply will be held in reserve for
+    future programs, to be determined by the Foundation and/or the governance
+    community. Retroactive Public Goods Funding (RetroPGF) will be distributed
+    by the Citizens' House, with rounds expected to occur quarterly. The
+    objective of RetroPGF is to ensure that all OPCOs are adequately rewarded
+    based on their impact to the Collective. The Optimism Foundation may tap
+    into the 20% RetroPGF Reserve to increase the total OP payout of any given
+    period.
+
+
+    ### Core Contributors & Sugar Xaddies
+
+
+    The Core Contributors allocation will be distributed to the individuals who
+    played a crucial role in bringing Optimism and the Optimism Collective from
+    concept to reality. These tokens will also continue to support the
+    development of the protocol. Both the Core Contributors and Sugar Xaddies
+    allocations will be subject to a lockup period.
+  title: OP Allocations
