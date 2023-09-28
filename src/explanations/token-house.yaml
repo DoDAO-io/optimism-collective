@@ -173,17 +173,6 @@
     resource for the community, offering insights into the timing and
     progression of the governance process.
   title: Seasons & Voting Cycles
-- key: references-81
-  shortTitle: References
-  details: >-
-    https://community.optimism.io/docs/governance/#token-house
-
-
-    https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#valid-proposal-types
-
-
-    https://community.optimism.io/docs/governance/token-house-history/#
-  title: References
 - key: grants-token-house
   shortTitle: Grants-Token House
   details: >-
@@ -268,3 +257,14 @@
     Mission Proposals will be approval ranked by the Token House every six
     months. 
   title: Grants-Token House
+- key: references-81
+  shortTitle: References
+  details: >-
+    https://community.optimism.io/docs/governance/#token-house
+
+
+    https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#valid-proposal-types
+
+
+    https://community.optimism.io/docs/governance/token-house-history/#
+  title: References
