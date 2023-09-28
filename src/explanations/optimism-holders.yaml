@@ -244,3 +244,51 @@
     development of the protocol. Both the Core Contributors and Sugar Xaddies
     allocations will be subject to a lockup period.
   title: OP Allocations
+- key: airdrops
+  shortTitle: Airdrops
+  details: |-
+    The following table showcases the various factors of Airdrop 1, 2 & 3:
+
+    <table>
+    <thead>
+      <tr>
+        <th>Categories</th>
+        <th>Airdrop 1</th>
+        <th>Airdrop 2</th>
+        <th>Airdrop 3</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Criteria</td>
+        <td>Rewards those who have been instrumental as early adopters and active users of projects in the Optimism ecosystem &amp; L1 Ethereum. </td>
+        <td>Rewards positive-sum governance participation and power users of OP Mainnet.</td>
+        <td>Similar to Airdrop 2, rewards positive sum governance participation.</td>
+      </tr>
+      <tr>
+        <td>Tokens Distributed</td>
+        <td>Distributed over 200m OP tokens to 250,000 early adopters and engaged users in May 2022.</td>
+        <td>As of February 9th, 2023, distributed more than 55m OP tokens across the ecosystem</td>
+        <td>Distributed over 19,411,313 OP tokens in this airdrop.</td>
+      </tr>
+      <tr>
+        <td>Claiming Process</td>
+        <td>Requires eligible addresses to claim the tokens</td>
+        <td>Tokens are distributed directly to eligible wallets, no claiming needed.</td>
+        <td>Similar to Airdrop 2, Airdrop #3 is disbursed directly to eligible wallets.</td>
+      </tr>
+      <tr>
+        <td>Distribution Date</td>
+        <td>Distributed in May 2022</td>
+        <td>Tokens sent in February 2023</td>
+        <td>Took place in September 2023</td>
+      </tr>
+      <tr>
+        <td>Snapshot Date</td>
+        <td>A snapshot of addresses was taken on 03-25-2022 0:00 UTC.</td>
+        <td>Snapshot taken on 01-20-2023 0:00 UTC.</td>
+        <td>Delegated tokens between 2023-01-20 at 0:00 UTC and 2023-07-20 0:00 UTC.</td>
+      </tr>
+    </tbody>
+    </table>
+  title: Airdrops
