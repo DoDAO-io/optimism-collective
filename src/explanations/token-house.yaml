@@ -109,6 +109,7 @@
 
     </table>
 - key: grants-token-house
+  title: Grants-Token House
   shortTitle: Grants-Token House
   details: >-
     ### Grants Council
@@ -191,7 +192,6 @@
     forum requesting the grant amount that corresponds to their Trust Tier.
     Mission Proposals will be approval ranked by the Token House every six
     months. 
-  title: Grants-Token House
 - key: seasons-voting-cycles
   shortTitle: Voting Cycles
   details: >-
