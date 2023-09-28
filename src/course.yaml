@@ -75,6 +75,7 @@ topics:
       retroactive funding, the Optimism Collective aims to support projects and
       communities that are building for the common good and creating a
       sustainable future for Ethereum.
+    explanations: introduction.yaml
 courseAdmins:
   - '0x34d014758297c00fea49935fce172677904d51ef'
   - '0x2a6af0619be90d129ab0d70c10e25c097b6ec67d'
