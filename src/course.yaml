@@ -167,6 +167,7 @@ topics:
       community and submit an updated proposal in the next voting cycle. This
       ensures that proposals have ample opportunity for improvement and
       refinement before moving forward in the governance process.
+    explanations: token-house.yaml
 courseAdmins:
   - '0x34d014758297c00fea49935fce172677904d51ef'
   - '0x2a6af0619be90d129ab0d70c10e25c097b6ec67d'

@@ -1,0 +1,110 @@
+- key: proposal-types
+  title: Proposal Types
+  shortTitle: Proposal Types
+  details: >-
+    A Token House governance proposal is considered valid when it meets specific
+    criteria related to the number of votes:
+
+
+    ### Quorum
+
+    This refers to the minimum number of total OP votes, which includes abstain
+    votes, that must be cast for a proposal to be eligible. Quorum is calculated
+    as a percentage of the total votable OP supply at the start of the voting
+    period. The "votable supply" encompasses the OP tokens that have been
+    delegated and are eligible to participate in the voting process. 
+
+
+    ### Approval Threshold
+
+    To approve a proposal, a minimum number of OP votes must be in favor of it.
+    The approval threshold for each proposal is determined as a percentage of
+    the votes cast in favor of approval relative to the total number of yes and
+    no votes. Abstain votes are not included in this calculation.
+
+
+    The table below showcases different requirements for submission and approval
+    of each proposal type:
+
+
+    <table>
+
+    <thead>
+      <tr>
+        <th>Proposal Type</th>
+        <th>Description</th>
+        <th>Submission Requirements</th>
+        <th>Vote Duration</th>
+        <th>Quorum</th>
+        <th>Approval Threshold</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>Governance Fund</td>
+        <td>OP grants to proactively incentivize future growth of projects and communities in the Optimism ecosystem.</td>
+        <td>Proposals should follow <a href="https://gov.optimism.io/t/governance-fund-phase-1-how-to-create-a-proposal/216">this template</a> and the process outlined in <a href="https://gov.optimism.io/t/grants-council-internal-operating-procedures/4832">Grants Council: Internal Procedures</a>.</td>
+        <td>Three-week review cycle plus two week Grants Council vote window</td>
+        <td>N/A</td>
+        <td>See <a href="https://gov.optimism.io/t/grants-council-internal-operating-procedures/4832">Grants Council: Internal Procedures</a>.</td>
+      </tr>
+      <tr>
+        <td>Protocol Upgrade</td>
+        <td>Scheduled changes to the on-chain smart contracts comprising the mainnet Optimism protocol</td>
+        <td>Forum + On-Chain Voting</td>
+        <td>Three-week review cycle plus two week vote window</td>
+        <td>30%</td>
+        <td>76%</td>
+      </tr>
+      <tr>
+        <td>Inflation Adjustment</td>
+        <td>Changes to the inflation rate of newly minted OP (currently capped at 2% annually)</td>
+        <td>Forum + On-Chain Voting. Proposals should follow <a href="https://gov.optimism.io/t/inflation-adjustment-proposal-template/5923">this template</a>.</td>
+        <td>Three-week review cycle plus two week vote window</td>
+        <td>30%</td>
+        <td>76%</td>
+      </tr>
+      <tr>
+        <td>Director Removal</td>
+        <td>Removal of a director of the Optimism Foundation</td>
+        <td>Forum + On-Chain Voting</td>
+        <td>Three-week review cycle plus two week vote window</td>
+        <td>30%</td>
+        <td>76%</td>
+      </tr>
+      <tr>
+        <td>Treasury Appropriations</td>
+        <td>The amount of OP the Optimism Foundation may spend or distribute annually, beginning in Year 2 of its existence (the Year 1 budget is 30% of the initial total OP supply)</td>
+        <td>Proposals to be initiated by the Foundation</td>
+        <td>Three-week review cycle plus two week vote window</td>
+        <td>30%</td>
+        <td>51%</td>
+      </tr>
+      <tr>
+        <td>Rights Protections</td>
+        <td>OP holders must consent to any changes to the founding documents of the Optimism Foundation, if those changes would materially reduce their rights</td>
+        <td>Proposals to be initiated by the Foundation</td>
+        <td>Three-week review cycle plus two week vote window</td>
+        <td>30%</td>
+        <td>51%</td>
+      </tr>
+      <tr>
+        <td>Code of Conduct Violation</td>
+        <td>The Token House may vote on violations of the <a href="https://gov.optimism.io/t/code-of-conduct/5751">Code of Conduct</a></td>
+        <td>Proposals to be initiated by the Foundation in response to reported violations</td>
+        <td>Three-week review cycle plus two week vote window</td>
+        <td>30%</td>
+        <td>51%</td>
+      </tr>
+      <tr>
+        <td>Grant Clawback</td>
+        <td>A locked grant may be clawed back before distribution for failure to execute on critical milestones, as defined by proposers and documented publicly</td>
+        <td>Forum + On-Chain Voting</td>
+        <td>Three-week review cycle plus two week vote window</td>
+        <td>30%</td>
+        <td>51%</td>
+      </tr>
+    </tbody>
+
+    </table>
