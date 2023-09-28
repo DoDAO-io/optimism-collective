@@ -49,3 +49,83 @@
     of Token House. However, it is important to note that token grants should
     not be self-delegated to grant recipients. This ensures fairness and
     prevents any conflicts of interest.
+- key: guidelines
+  shortTitle: Guidelines
+  details: >-
+    Existing delegates play a crucial role in the governance process. By keeping
+    in mind the following guidelines, delegates can effectively contribute to
+    the decision-making process and help shape the future of the community:
+
+
+    ### 1. Join Discord Channels
+
+    As an existing delegate, it is important to actively participate in the
+    governance discussions. Join the relevant channels on
+    [Discord](https://discord-gateway.optimism.io/) to engage in conversations
+    with other delegates and stay updated on important governance events. The
+    [#gov-general
+    channel](https://discord.com/channels/667044843901681675/968498307913637919)
+    is specifically designed for general governance discussions, while the
+    [#token-house-gov
+    channel](https://discord.com/channels/667044843901681675/991340698995544176)
+    provides announcements about significant events in the governance process.
+    Additionally, the [#grants
+    channel](https://discord.com/channels/667044843901681675/1069653708369047623)
+    allows delegates to discuss the grants process and provide feedback to grant
+    applicants. Lastly, the [#delegate-discussion
+    channel](https://discord.com/channels/667044843901681675/989611992295813241)
+    is a platform for larger delegates to collaborate and discuss proposals and
+    the overall governance process.
+
+
+    ### 2. Provide Feedback
+
+    To contribute to the decision-making process, delegates should provide
+    feedback on draft proposals. This can be done in the [Proposals
+    Discussion](https://gov.optimism.io/c/proposals/38) section of the Forum. By
+    sharing your thoughts and insights, you can help shape the direction of the
+    proposals and ensure that they align with the interests of the community.
+    Remember, your feedback can have a significant impact on the final outcome
+    of the proposals.
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695748642625_untitled-2023-09-26-2024.png"/>
+    </div>
+
+
+    ### 3. Approve Non-Grant Proposals
+
+    If you possess more than 0.5% of the voting supply, you have the authority
+    to approve non-grant proposals. To exercise this power, simply post the
+    following phrase in a forum comment on Discourse: "I am an Optimism delegate
+    with sufficient voting power and I believe this proposal is ready to move to
+    a vote." By approving proposals, you contribute to the decision-making
+    process and help determine which proposals should proceed to the voting
+    stage.
+
+
+    ### 4. Vote on Non-Grant Proposals
+
+    As an existing delegate, it is crucial to exercise your voting power on
+    non-grant proposals. Utilize the [Optimism Governance
+    Portal](https://vote.optimism.io/) to cast your vote and make your voice
+    heard. Remember to carefully consider the proposals and their potential
+    impact on the community before making your decision. Additionally, after
+    voting, it is recommended to provide a voting rationale in a [Delegate
+    Communications Thread](https://gov.optimism.io/c/governance/41). This allows
+    you to explain your decision and engage in further discussions with other
+    delegates.
+
+
+    ### 5. Stay Up to Date
+
+    To effectively fulfill your role as a delegate, it is essential to stay
+    informed about voting cycles and general governance updates. The Governance
+    section of the [Forum](https://gov.optimism.io/c/governance/41) provides
+    valuable information on these matters. Additionally, the [governance
+    calendar](https://calendar.google.com/calendar/u/0/r?cid=Y180aHVpNzBpdG0wODllN3Q4cTUwaGVoMWtub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+    highlights when important governance calls take place. By staying up to
+    date, you can actively participate in the decision-making process and
+    contribute to the overall governance of the community.
+  title: Guidelines
