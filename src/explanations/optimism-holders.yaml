@@ -146,8 +146,9 @@
     This creates a symbiotic relationship where the community members contribute
     to the ecosystem's growth and, in turn, benefit from its success.
 - key: op-allocations
+  title: OP Allocations
   shortTitle: OP Allocations
-  details: >
+  details: >-
     The following table & diagram  showcases the OP token allocations:
 
 
@@ -193,7 +194,7 @@
 
 
     <div align="center">
-      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/a52929b2_2fda_47ee_befc_e3977a8cdedc/1695733353942_untitled-2023-09-21-1651.png"/>
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1696860053755_untitled-2023-09-21-1651.png"/>
     </div>
 
 
@@ -243,7 +244,6 @@
     concept to reality. These tokens will also continue to support the
     development of the protocol. Both the Core Contributors and Sugar Xaddies
     allocations will be subject to a lockup period.
-  title: OP Allocations
 - key: airdrops
   shortTitle: Airdrops
   details: |-
