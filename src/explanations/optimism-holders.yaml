@@ -77,6 +77,7 @@
     Once you have been added as a delegate in the next voting cycle, you can
     start voting on governance matters.
 - key: op-economics
+  title: OP Economics
   shortTitle: OP Economics
   details: >-
     ### Funding Sources in the OP Economy
@@ -116,7 +117,7 @@
 
 
     <div align="center">
-      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695736350386_untitled-2023-09-26-1601.png"/>
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1696859318402_untitled-2023-09-21-1651.png"/>
     </div>
 
 
@@ -144,7 +145,6 @@
     OP ecosystem funding, and the overall benefits that public goods provide.
     This creates a symbiotic relationship where the community members contribute
     to the ecosystem's growth and, in turn, benefit from its success.
-  title: OP Economics
 - key: op-allocations
   shortTitle: OP Allocations
   details: >
