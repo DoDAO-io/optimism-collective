@@ -822,6 +822,96 @@
               "key": "D"
             }
           ]
+        },
+        {
+          "uuid": "c95452a2-565e-4f29-a6cb-ca4c1fac63e1",
+          "type": "SingleChoice",
+          "content": "What is the primary objective of the Partner Fund managed by the Optimism Foundation?",
+          "hint": "NoHint",
+          "explanation": "The primary objective of the Partner Fund is to foster the growth of Optimism's ecosystem for the benefit of the entire Collective.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To provide small scale grants to start-ups",
+              "key": "A"
+            },
+            {
+              "content": "To invest in stock market",
+              "key": "B"
+            },
+            {
+              "content": "To foster the growth of Optimism's ecosystem for the benefit of the entire Collective",
+              "key": "C"
+            },
+            {
+              "content": "To provide loans to businesses",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "e3280538-cc01-4c5f-ae14-4b1bb39ed0b7",
+          "type": "SingleChoice",
+          "content": "What is the purpose of the 1-year token lockup period for projects that receive a grant from the Partner Fund?",
+          "hint": "NoHint",
+          "explanation": "The lockup period ensures that the granted tokens are utilized in a way that aligns with the long-term objectives of the Optimism ecosystem.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To prevent the project from using the granted tokens",
+              "key": "A"
+            },
+            {
+              "content": "To ensure that the granted tokens are utilized in a way that aligns with the long-term objectives of the Optimism ecosystem",
+              "key": "B"
+            },
+            {
+              "content": "To allow the project to immediately sell or transfer the granted tokens",
+              "key": "C"
+            },
+            {
+              "content": "To increase the value of the granted tokens",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "ff92a28f-4ca5-4324-93d2-24f5d6681bd3",
+          "type": "SingleChoice",
+          "content": "Who selects the proposals for the Foundation Missions?",
+          "hint": "NoHint",
+          "explanation": "The foundation carefully selects which proposals will be chosen to complete each mission, ensuring that they align with their vision and objectives.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "The Optimism Foundation",
+              "key": "A"
+            },
+            {
+              "content": "The Token House",
+              "key": "B"
+            },
+            {
+              "content": "The Partner Fund",
+              "key": "C"
+            },
+            {
+              "content": "The Governance Fund",
+              "key": "D"
+            }
+          ]
         }
       ],
       "readings": [],
