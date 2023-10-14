@@ -1,1 +1,44 @@
-[]
+- answerKeys:
+    - C
+  choices:
+    - content: To act as a financial institution
+      key: A
+    - content: To provide legal services
+      key: B
+    - content: >-
+        To support the establishment and development of the Optimism
+        Collective and ecosystem
+      key: C
+    - content: To manage the marketing and promotion of the Optimism Collective
+      key: D
+  content: What is the primary role of the Optimism Foundation?
+  type: SingleChoice
+  uuid: 6bd1014f-c33c-44dd-a7e5-919e247dcac3
+  hint: NoHint
+  explanation: >-
+    The Optimism Foundation plays a crucial role in supporting the
+    establishment of the Optimism Collective and the development of the
+    Optimism ecosystem. It also helps in facilitating various
+    administrative aspects of Collective governance.
+- answerKeys:
+    - D
+  choices:
+    - content: By controlling the development of the protocol
+      key: A
+    - content: By limiting the community's contribution to the protocol
+      key: B
+    - content: By solely focusing on the financial aspects of the protocol
+      key: C
+    - content: >-
+        By encouraging community contribution and commissioning technical
+        research
+      key: D
+  content: How does the Optimism Foundation support the Optimism protocol?
+  type: SingleChoice
+  uuid: 3893b3f8-2f32-45b3-5fa8-8a3cf9cd6d82
+  hint: NoHint
+  explanation: >-
+    The Foundation supports the Optimism protocol by encouraging and
+    enabling the community to contribute to the technical architecture of
+    the protocol. Additionally, it commissions technical research on
+    scalability, security, and decentralization.
