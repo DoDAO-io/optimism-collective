@@ -302,7 +302,176 @@
           "title": "References"
         }
       ],
-      "questions": [],
+      "questions": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To facilitate the distribution of OP tokens",
+              "key": "A"
+            },
+            {
+              "content": "To regulate the trading of OP tokens on cryptocurrency platforms",
+              "key": "B"
+            },
+            {
+              "content": "To serve as the on-chain voting contract for all governance proposals",
+              "key": "C"
+            },
+            {
+              "content": "To provide a platform for discussion and deliberation on governance proposals",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary purpose of the Token House Governance Contract?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "b4b37a86-1bb4-4271-8895-74ea65c82980",
+          "explanation": "The Token House Governance Contract serves as the on-chain voting contract for all governance proposals submitted by Token House members. This is where all qualifying proposals are submitted for voting."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "By purchasing a membership",
+              "key": "A"
+            },
+            {
+              "content": "By being an employee of the Optimism Collective",
+              "key": "B"
+            },
+            {
+              "content": "By winning a competition",
+              "key": "C"
+            },
+            {
+              "content": "By obtaining OP tokens through airdrops, trading, or contributing to the Optimism ecosystem",
+              "key": "D"
+            }
+          ],
+          "content": "How can one become a member of Token House?",
+          "hint": "NoHint",
+          "type": "SingleChoice",
+          "uuid": "eff46031-5c7b-44ba-a7da-06c21e44fa62",
+          "explanation": "There are several avenues available for obtaining OP tokens and becoming a part of the Optimism ecosystem. These include airdrops, purchasing and trading on cryptocurrency platforms, and contributing to the development, testing, or promotion of Optimism's technology."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "The maximum number of votes needed for a proposal to be approved",
+              "key": "A"
+            },
+            {
+              "content": "The minimum number of total OP votes needed for a proposal to be eligible",
+              "key": "B"
+            },
+            {
+              "content": "The total number of votes cast in a voting period",
+              "key": "C"
+            },
+            {
+              "content": "The total number of votes in favor of a proposal",
+              "key": "D"
+            }
+          ],
+          "content": "What does the term 'Quorum' refer to in the context of a Token House governance proposal?",
+          "hint": "NoHint",
+          "type": "SingleChoice",
+          "uuid": "10aa7ea8-3980-4c7b-a12a-d6477ad2ee48",
+          "explanation": "In the context of a Token House governance proposal, 'Quorum' refers to the minimum number of total OP votes, including abstain votes, that must be cast for a proposal to be eligible. It is calculated as a percentage of the total votable OP supply at the start of the voting period."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "The total number of votes needed for a proposal to be rejected",
+              "key": "A"
+            },
+            {
+              "content": "The total number of votes cast in a voting period",
+              "key": "B"
+            },
+            {
+              "content": "The minimum number of OP votes in favor of a proposal for it to be approved",
+              "key": "C"
+            },
+            {
+              "content": "The maximum number of votes a proposal can receive",
+              "key": "D"
+            }
+          ],
+          "content": "What is the 'Approval Threshold' in a Token House governance proposal?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "35b0f27d-157a-4909-ab6c-b48fa88b5f7f",
+          "explanation": "The 'Approval Threshold' in a Token House governance proposal refers to the minimum number of OP votes that must be in favor of a proposal for it to be approved. It is determined as a percentage of the votes cast in favor of approval relative to the total number of yes and no votes. Abstain votes are not included in this calculation."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Seasons are changes in weather",
+              "key": "A"
+            },
+            {
+              "content": "Seasons are different types of tokens",
+              "key": "B"
+            },
+            {
+              "content": "Seasons are distinct periods of governance operations",
+              "key": "C"
+            },
+            {
+              "content": "Seasons are different types of voting cycles",
+              "key": "D"
+            }
+          ],
+          "content": "What are seasons in the context of governance operations?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "6275eb07-dd32-4c7e-95dc-fd9305279f42",
+          "explanation": "Seasons are distinct periods of governance operations, each with its own unique timeline and objectives. These seasons are organized and scheduled to facilitate decision-making and governance within the Token House ecosystem."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "New seasons are proposed",
+              "key": "A"
+            },
+            {
+              "content": "Proposals to modify the collective's structure are voted upon",
+              "key": "B"
+            },
+            {
+              "content": "Reflection Periods are initiated",
+              "key": "C"
+            },
+            {
+              "content": "The governance process is concluded",
+              "key": "D"
+            }
+          ],
+          "content": "What happens during Special Voting Cycles?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "0862cf89-bdd8-4e94-8d62-3613d2457b73",
+          "explanation": "Special Voting Cycles are conducted after Reflection Periods. These cycles focus specifically on voting for proposals that aim to modify the collective's structure. It is during these cycles that the changes made during the Reflection Period are voted upon."
+        }
+      ],
       "readings": [],
       "summaries": []
     },
@@ -331,7 +500,148 @@
           "title": "References"
         }
       ],
-      "questions": [],
+      "questions": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Determining the scope and amount of each funding round",
+              "key": "A"
+            },
+            {
+              "content": "Overseeing the voting process",
+              "key": "B"
+            },
+            {
+              "content": "Voting on the allocation of Retroactive Public Goods Funding (RetroPGF)",
+              "key": "C"
+            },
+            {
+              "content": "Enforcing the Collective's Codes of Conduct",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary responsibility of the Citizens' House during its initial stage?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "3b98050d-c633-4245-9861-f17dc64becba",
+          "explanation": "During its initial stage, the Citizens' House is primarily responsible for voting on the allocation of Retroactive Public Goods Funding (RetroPGF)."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Determining the scope and amount of each funding round",
+              "key": "A"
+            },
+            {
+              "content": "Overseeing the voting process",
+              "key": "B"
+            },
+            {
+              "content": "Enforcing the Collective's Codes of Conduct",
+              "key": "C"
+            },
+            {
+              "content": "Decisions regarding the allocation of surplus protocol revenue",
+              "key": "D"
+            }
+          ],
+          "content": "What does the Citizens' House collaborate with the Token House on?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "95e959a7-552c-4fb2-9f29-c755e8c9fd59",
+          "explanation": "The Citizens' House collaborates with the Token House to make decisions regarding the allocation of surplus protocol revenue."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Establishing a criteria for participation",
+              "key": "A"
+            },
+            {
+              "content": "Becoming a member of the Token House",
+              "key": "B"
+            },
+            {
+              "content": "Being given a temporary badge to vote in RetroPGF rounds",
+              "key": "C"
+            },
+            {
+              "content": "Voting in a specific round of RetroPGF",
+              "key": "D"
+            }
+          ],
+          "content": "What is the first step in the process of becoming a citizen in the Citizens' House?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "20988183-8ecf-473e-925d-87a7cd55d06a",
+          "explanation": "The first step in the process of becoming a citizen in the Citizens' House is being given a temporary badge that allows the individual to vote in RetroPGF rounds."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To predict the future usefulness of projects",
+              "key": "A"
+            },
+            {
+              "content": "To fund projects that are yet to prove their value",
+              "key": "B"
+            },
+            {
+              "content": "To reward projects who make a positive impact on the community",
+              "key": "C"
+            },
+            {
+              "content": "To discourage the development of public goods",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary goal of Retroactive Public Goods Funding (RetroPGF)?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "deefae85-b178-4331-a951-abb03f7aed5e",
+          "explanation": "The primary goal of RetroPGF is to provide financial support to public goods that have proven their value to the Optimism ecosystem, thereby encouraging the development of public goods that have a tangible impact."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Only developers",
+              "key": "A"
+            },
+            {
+              "content": "Only educators",
+              "key": "B"
+            },
+            {
+              "content": "Only artists",
+              "key": "C"
+            },
+            {
+              "content": "All types of contributors to the Optimism ecosystem",
+              "key": "D"
+            }
+          ],
+          "content": "Who can submit an application for RetroPGF?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "d030026e-a48c-48ae-ba30-cc4ee8c446ae",
+          "explanation": "RetroPGF is open to all types of contributors to the Optimism ecosystem, including developers, educators, artists, creators, writers, builders, and evangelists."
+        }
+      ],
       "readings": [],
       "summaries": []
     },
@@ -407,7 +717,204 @@
           "title": "References"
         }
       ],
-      "questions": [],
+      "questions": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "By purchasing them from a physical store",
+              "key": "A"
+            },
+            {
+              "content": "By winning them in a lottery",
+              "key": "B"
+            },
+            {
+              "content": "Through airdrops, purchasing and trading on cryptocurrency platforms, and contributing to the Optimism's technology",
+              "key": "C"
+            },
+            {
+              "content": "By inheriting them from a family member",
+              "key": "D"
+            }
+          ],
+          "content": "How can one become an OP token holder?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "a217ff1c-7491-4716-8aec-83f55ff8c195",
+          "explanation": "One can become an OP token holder through methods such as airdrops, purchasing and trading on cryptocurrency platforms, and contributing to the development, testing, or promotion of Optimism's technology."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The right to sell the tokens at a high price",
+              "key": "A"
+            },
+            {
+              "content": "The right to use the tokens as a form of currency",
+              "key": "B"
+            },
+            {
+              "content": "The right to exchange the tokens for other cryptocurrencies",
+              "key": "C"
+            },
+            {
+              "content": "The right to participate in the decentralized governance, propose changes, cast votes, and shape the future of the Optimism network",
+              "key": "D"
+            }
+          ],
+          "content": "What rights do OP token holders have?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "70b39834-dd4f-47fb-aac9-6bf112956d15",
+          "explanation": "OP token holders have the right to participate in the decentralized governance of the Optimism ecosystem, propose changes, updates, and enhancements to the protocol, cast votes on important matters, and shape the future development and direction of the Optimism network."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To give away your tokens",
+              "key": "A"
+            },
+            {
+              "content": "To increase the value of your tokens",
+              "key": "B"
+            },
+            {
+              "content": "To allow someone else to actively participate in governance on your behalf",
+              "key": "C"
+            },
+            {
+              "content": "To decrease the value of your tokens",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of delegating your voting power in the Optimism Token House?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "513f996d-0bf1-42ca-8bbc-330ad94c4d36",
+          "explanation": "Delegating your voting power allows you to transfer your voting power to someone who will actively participate in Token House governance on your behalf. This is particularly useful if you do not have the time to actively participate yourself."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "You lose your voting power",
+              "key": "A"
+            },
+            {
+              "content": "You can delegate to yourself and retain full control over your voting power",
+              "key": "B"
+            },
+            {
+              "content": "Your tokens decrease in value",
+              "key": "C"
+            },
+            {
+              "content": "You are excluded from the voting process",
+              "key": "D"
+            }
+          ],
+          "content": "What happens if you choose not to delegate your voting power to a representative?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "0119b15c-9679-4bc5-9571-968968c3ab3d",
+          "explanation": "If you choose not to delegate your voting power to a representative, you have the option to delegate to yourself. This allows you to retain full control over your voting power and participate in the voting process."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "From the sale of OP tokens",
+              "key": "A"
+            },
+            {
+              "content": "From the ownership of OP Mainnet and the value of its blockspace",
+              "key": "B"
+            },
+            {
+              "content": "From donations made by the Optimism Foundation",
+              "key": "C"
+            },
+            {
+              "content": "From the sale of merchandise related to the OP economy",
+              "key": "D"
+            }
+          ],
+          "content": "Where does the funding for the OP economy primarily come from?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "17e6c1ec-e1b1-442c-afa8-7d897bb2fafb",
+          "explanation": "The funding for the OP economy comes primarily from the ownership of OP Mainnet and the value of its blockspace."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Rewards positive-sum governance participation and power users of OP Mainnet.",
+              "key": "A"
+            },
+            {
+              "content": "Rewards those who have been instrumental as early adopters and active users of projects in the Optimism ecosystem & L1 Ethereum.",
+              "key": "B"
+            },
+            {
+              "content": "Similar to Airdrop 2, rewards positive sum governance participation.",
+              "key": "C"
+            },
+            {
+              "content": "None of the above",
+              "key": "D"
+            }
+          ],
+          "content": "What was the criteria for Airdrop 1?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "48453a4d-2ce3-4314-8a25-c7386b05d50f",
+          "explanation": "Airdrop 1 rewarded those who have been instrumental as early adopters and active users of projects in the Optimism ecosystem & L1 Ethereum."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Requires eligible addresses to claim the tokens",
+              "key": "A"
+            },
+            {
+              "content": "Distributed over 200m OP tokens to 250,000 early adopters and engaged users",
+              "key": "B"
+            },
+            {
+              "content": "Tokens are distributed directly to eligible wallets, no claiming needed.",
+              "key": "C"
+            },
+            {
+              "content": "None of the above",
+              "key": "D"
+            }
+          ],
+          "content": "How are the tokens of Airdrop 2 distributed?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "f897ba80-47c1-4c5d-9d50-d6f6909f2895",
+          "explanation": "Tokens of Airdrop 2 were distributed directly to eligible wallets, no claiming was needed."
+        }
+      ],
       "readings": [],
       "summaries": []
     },
@@ -436,7 +943,148 @@
           "title": "References"
         }
       ],
-      "questions": [],
+      "questions": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "A person who develops the blockchain",
+              "key": "A"
+            },
+            {
+              "content": "A person who mines the tokens",
+              "key": "B"
+            },
+            {
+              "content": "An individual selected to make governance decisions on behalf of token holders",
+              "key": "C"
+            },
+            {
+              "content": "A person who only holds the tokens",
+              "key": "D"
+            }
+          ],
+          "content": "Who is a delegate in the context of the Optimism blockchain?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "ac8eacc9-9565-4fec-b64a-c13a20d6d7ae",
+          "explanation": "In the Optimism blockchain, a delegate is an individual selected to make governance decisions on behalf of token holders. Token holders have the option to delegate their voting power to someone else, who will then represent them in decision-making processes."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To mine new tokens",
+              "key": "A"
+            },
+            {
+              "content": "To manage the governance of the network by proposing, voting, and executing changes",
+              "key": "B"
+            },
+            {
+              "content": "To buy and sell tokens",
+              "key": "C"
+            },
+            {
+              "content": "To develop new blockchain technologies",
+              "key": "D"
+            }
+          ],
+          "content": "What is the role of delegates in the Optimism blockchain?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "184c5dca-b1c2-4aae-88ab-0fceae4c52e1",
+          "explanation": "Delegates in the Optimism blockchain are responsible for managing the governance of the network. They propose, vote, and execute changes to the network, ensuring its smooth operation."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Registering as a delegate on the Optimism Governance Portal",
+              "key": "A"
+            },
+            {
+              "content": "Self-delegating your own OP tokens' voting power to yourself",
+              "key": "B"
+            },
+            {
+              "content": "Familiarizing yourself with the delegate responsibilities",
+              "key": "C"
+            },
+            {
+              "content": "Completing the delegate commitment form",
+              "key": "D"
+            }
+          ],
+          "content": "What is the first step towards becoming a delegate in Token House governance?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "2c8e6228-b13a-4762-ba3e-7b3de4b016ba",
+          "explanation": "The first step towards becoming a delegate is to familiarize yourself with the delegate responsibilities."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "To increase the value of your tokens",
+              "key": "A"
+            },
+            {
+              "content": "To trade your tokens more easily",
+              "key": "B"
+            },
+            {
+              "content": "To prevent others from voting",
+              "key": "C"
+            },
+            {
+              "content": "To retain control over your voting power and actively participate in the decision-making process",
+              "key": "D"
+            }
+          ],
+          "content": "Why is it advisable to delegate your own OP tokens' voting power to yourself?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "823a6a48-6e7f-4749-be81-8344a4c958bf",
+          "explanation": "By self-delegating, you retain control over your voting power and can actively participate in the decision-making process. This ensures that your voice is heard and that you have a say in the governance of Token House."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To only vote on non-grant proposals",
+              "key": "A"
+            },
+            {
+              "content": "To only provide feedback on draft proposals",
+              "key": "B"
+            },
+            {
+              "content": "To participate in discussions, provide feedback, approve and vote on proposals, and stay updated",
+              "key": "C"
+            },
+            {
+              "content": "To only join Discord Channels",
+              "key": "D"
+            }
+          ],
+          "content": "What is the role of an existing delegate in the governance process?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "uuid": "eaa79c44-e8df-4659-9b89-49be7b658c76",
+          "explanation": "Existing delegates play a crucial role in the governance process by actively participating in discussions, providing feedback on proposals, approving non-grant proposals, voting on non-grant proposals, and staying up to date with governance updates."
+        }
+      ],
       "readings": [],
       "summaries": []
     }

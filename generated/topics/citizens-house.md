@@ -32,3 +32,4 @@ During this early phase, the Optimism Foundation takes charge of determining the
 
 
 
+[Questions](./../../generated/questions/citizens-house.md)

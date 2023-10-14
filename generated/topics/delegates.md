@@ -29,3 +29,4 @@ As blockchain technology evolves, it is essential to have a mechanism in place f
 
 
 
+[Questions](./../../generated/questions/delegates.md)

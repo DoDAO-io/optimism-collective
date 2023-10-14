@@ -236,6 +236,7 @@ topics:
       ensures that proposals have ample opportunity for improvement and
       refinement before moving forward in the governance process.
     explanations: token-house.yaml
+    questions: token-house.yaml
   - key: citizens-house
     title: Citizens' House
     details: >-
@@ -289,6 +290,7 @@ topics:
       procedures as part of the grant distribution process, ensuring
       transparency and compliance with regulatory requirements.
     explanations: citizens-house.yaml
+    questions: citizens-house.yaml
   - key: optimism-foundation
     title: Optimism Foundation
     details: >-
@@ -401,6 +403,7 @@ topics:
       play a pivotal role in shaping the future development and direction of the
       Optimism network.
     explanations: optimism-holders.yaml
+    questions: optimism-holders.yaml
   - key: delegates
     title: Delegates
     details: >-
@@ -458,6 +461,7 @@ topics:
       remains up-to-date and secure by proposing and implementing upgrades and
       maintenance activities.
     explanations: delegates.yaml
+    questions: delegates.yaml
 courseAdmins:
   - ''
 coursePassContent: Pass content of Course !!!!!!!!!!

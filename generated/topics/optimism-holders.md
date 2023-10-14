@@ -34,3 +34,4 @@ The Optimism Forum plays a crucial role in the governance process by providing a
 
 
 
+[Questions](./../../generated/questions/optimism-holders.md)
