@@ -1,0 +1,163 @@
+## Header
+This is the course header. This will be added on top of every page. Go to [DoDAO.io](https://www.dodao.io) to know more.
+
+ ---
+ 
+ ## Token House
+ 
+ **Proposal Types**        
+A Token House governance proposal is considered valid when it meets specific criteria related to the number of votes:
+
+### Quorum
+This refers to the minimum number of total OP votes, which includes abstain votes, that must be cast for a proposal to be eligible. Quorum is calculated as a percentage of the total votable OP supply at the start of the voting period. The "votable supply" encompasses the OP tokens that have been delegated and are eligible to participate in the voting process. 
+
+### Approval Threshold
+To approve a proposal, a minimum number of OP votes must be in favor of it. The approval threshold for each proposal is determined as a percentage of the votes cast in favor of approval relative to the total number of yes and no votes. Abstain votes are not included in this calculation.
+
+The table below showcases different requirements for submission and approval of each proposal type:
+
+<table>
+<thead>
+  <tr>
+    <th>Proposal Type</th>
+    <th>Description</th>
+    <th>Submission Requirements</th>
+    <th>Vote Duration</th>
+    <th>Quorum</th>
+    <th>Approval Threshold</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Governance Fund</td>
+    <td>OP grants to proactively incentivize future growth of projects and communities in the Optimism ecosystem.</td>
+    <td>Proposals should follow <a href="https://gov.optimism.io/t/governance-fund-phase-1-how-to-create-a-proposal/216">this template</a> and the process outlined in <a href="https://gov.optimism.io/t/grants-council-internal-operating-procedures/4832">Grants Council: Internal Procedures</a>.</td>
+    <td>Three-week review cycle plus two week Grants Council vote window</td>
+    <td>N/A</td>
+    <td>See <a href="https://gov.optimism.io/t/grants-council-internal-operating-procedures/4832">Grants Council: Internal Procedures</a>.</td>
+  </tr>
+  <tr>
+    <td>Protocol Upgrade</td>
+    <td>Scheduled changes to the on-chain smart contracts comprising the mainnet Optimism protocol</td>
+    <td>Forum + On-Chain Voting</td>
+    <td>Three-week review cycle plus two week vote window</td>
+    <td>30%</td>
+    <td>76%</td>
+  </tr>
+  <tr>
+    <td>Inflation Adjustment</td>
+    <td>Changes to the inflation rate of newly minted OP (currently capped at 2% annually)</td>
+    <td>Forum + On-Chain Voting. Proposals should follow <a href="https://gov.optimism.io/t/inflation-adjustment-proposal-template/5923">this template</a>.</td>
+    <td>Three-week review cycle plus two week vote window</td>
+    <td>30%</td>
+    <td>76%</td>
+  </tr>
+  <tr>
+    <td>Director Removal</td>
+    <td>Removal of a director of the Optimism Foundation</td>
+    <td>Forum + On-Chain Voting</td>
+    <td>Three-week review cycle plus two week vote window</td>
+    <td>30%</td>
+    <td>76%</td>
+  </tr>
+  <tr>
+    <td>Treasury Appropriations</td>
+    <td>The amount of OP the Optimism Foundation may spend or distribute annually, beginning in Year 2 of its existence (the Year 1 budget is 30% of the initial total OP supply)</td>
+    <td>Proposals to be initiated by the Foundation</td>
+    <td>Three-week review cycle plus two week vote window</td>
+    <td>30%</td>
+    <td>51%</td>
+  </tr>
+  <tr>
+    <td>Rights Protections</td>
+    <td>OP holders must consent to any changes to the founding documents of the Optimism Foundation, if those changes would materially reduce their rights</td>
+    <td>Proposals to be initiated by the Foundation</td>
+    <td>Three-week review cycle plus two week vote window</td>
+    <td>30%</td>
+    <td>51%</td>
+  </tr>
+  <tr>
+    <td>Code of Conduct Violation</td>
+    <td>The Token House may vote on violations of the <a href="https://gov.optimism.io/t/code-of-conduct/5751">Code of Conduct</a></td>
+    <td>Proposals to be initiated by the Foundation in response to reported violations</td>
+    <td>Three-week review cycle plus two week vote window</td>
+    <td>30%</td>
+    <td>51%</td>
+  </tr>
+  <tr>
+    <td>Grant Clawback</td>
+    <td>A locked grant may be clawed back before distribution for failure to execute on critical milestones, as defined by proposers and documented publicly</td>
+    <td>Forum + On-Chain Voting</td>
+    <td>Three-week review cycle plus two week vote window</td>
+    <td>30%</td>
+    <td>51%</td>
+  </tr>
+</tbody>
+</table> 
+ **Grants-Token House**        
+### Grants Council
+
+The Grants Council, elected by the Token House community, plays a crucial role in providing small to medium-sized grants to support various initiatives. These grants are divided into three categories: Builders, Experiments, and Requests for Grants (RFGs):
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1696855688861_untitled-2023-09-21-1651.png"/>
+</div>
+
+**Builders grants** aim to maximize the number of builders, including developers and visionaries, who are building innovative applications on Optimism. The Council is particularly interested in projects that align with their mission of advancing the Builders community. When reviewing proposals, the Council looks for information that demonstrates how the project contributes to this mission.
+
+**Experiments grants** are designed to promote the adoption of novel applications and tangible use cases on Optimism. Unlike Builders grants, these grants are intended to reach end users and are not for the use of the proposer. The proposal forms for Experiments grants are specifically designed to gather information on how the project will expand the reach of the Optimism ecosystem and enhance the adoption of useful applications.
+
+**Requests for Grants (RFGs)** represent a transitional moment in the grant process. These grants are based on the needs of the Optimism ecosystem and are issued as requests for teams to submit proposals that address the most pressing problems. The Council specifies the requirements for each request, including how to submit a proposal and how the proposals will be assessed. The RFG process is dynamic and may be updated periodically.
+
+The Grants Council follows a five-week cycle during regular Voting Cycles to process applications. It is important to refer to the [governance calendar](https://calendar.google.com/calendar/u/0?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for the schedule and deadlines. 
+
+
+The following diagram showcases the procedure to submit a proposal:
+
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1696855766046_untitled-2023-09-21-1651.png"/>
+</div>
+
+
+### Token House Missions
+
+The Token House plays a crucial role in the Optimism Collective by voting on approving Missions. These Missions are specific initiatives that align with the Collective Intents and can receive grants. You can propose a Mission under Intent #1, Intent #3, or Intent #4. All proposals under Intent #2 should be grant applications that will be processed by the Grants Council. The Token House votes on these Missions once per Season, which is roughly every four to six months. In Season 4, the Foundation has suggested Intent Budgets to align the community around Collective Intents. Let's explore the different Intents and their proposed budgets:
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1696855863595_untitled-2023-09-21-1651.png"/>
+</div>
+
+
+One can apply by submitting a [Mission proposal](https://gov.optimism.io/t/proposed-mission-template/5882) on the forum requesting the grant amount that corresponds to their Trust Tier. Mission Proposals will be approval ranked by the Token House every six months.  
+ **Seasons & Voting Cycles**        
+### Seasons & Voting Cycles
+
+Seasons are distinct periods of governance operations, each with its own unique timeline and objectives. These seasons are organized and scheduled to facilitate decision-making and governance within the Token House ecosystem. 
+
+Voting cycles are specific phases within a season during which token holders participate in the governance process. These cycles typically last for five weeks and serve as the primary periods for proposing, discussing, and voting on governance proposals. 
+
+These cycles commence on Thursday at 19:00 GMT (12:00 PST) and conclude on Wednesday at 19:00 GMT (12:00 PST). It is during these cycles that the community actively participates in voting on various proposals.
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/token_house_optimism_university_389/1696854095349_untitled-2023-09-21-1651.png"/>
+</div>
+
+Reflection Periods and Special Voting Cycles are integral parts of the governance system that the Optimism Foundation follows. These cycles allow for the adoption of proposals and the modification of the collective's structure based on feedback received during the previous season. Let's delve deeper into how these cycles work.
+
+### Reflection Periods
+Reflection Periods play a crucial role in the governance process. During these periods, the Optimism Foundation publishes a proposed changelog to the Operating Manual and a set of governance proposals. These proposals aim to address the feedback received in the previous season, ensuring that the collective's decisions align with the community's needs.
+
+To allow delegates and the broader community ample time to provide critical feedback and suggestions for improvement, there are no active votes during Reflection Periods. This period serves as a dedicated time for reflection and constructive discussions, enabling the community to contribute to the enhancement of the upcoming season.
+
+### Special Voting Cycles
+Following the Reflection Periods, Special Voting Cycles are conducted. These cycles focus specifically on voting for proposals that aim to modify the collective's structure. It is during these cycles that the changes made during the Reflection Period are voted upon. This ensures that the collective's structure remains adaptable and responsive to the evolving needs of the community.
+
+To stay up to date with the seasons and voting cycles, the governance calendar provides all the necessary information. It serves as a valuable resource for the community, offering insights into the timing and progression of the governance process. 
+ **References**        
+https://community.optimism.io/docs/governance/#token-house
+
+https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#valid-proposal-types
+
+https://community.optimism.io/docs/governance/token-house-history/# 
+ 

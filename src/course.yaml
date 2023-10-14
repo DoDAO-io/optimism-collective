@@ -44,7 +44,7 @@ details: >-
   to engage with and contribute to the growth of Optimism.
 duration: 30 mins - 1 hour
 topics:
-  - key: introduction
+  - key: navigating-optimism-collective
     title: Navigating Optimism Collective
     details: >-
       ### What is Optimism Collective?
@@ -109,7 +109,8 @@ topics:
       retroactive funding, the Optimism Collective aims to support projects and
       communities that are building for the common good and creating a
       sustainable future for Ethereum.
-    explanations: introduction.yaml
+    explanations: navigating-optimism-collective.yaml
+    questions: navigating-optimism-collective.yaml
   - key: token-house
     title: Token House
     details: >-

@@ -1,0 +1,67 @@
+## Header
+This is the course header. This will be added on top of every page. Go to [DoDAO.io](https://www.dodao.io) to know more.
+
+ ---
+ 
+ ## Citizens' House
+ 
+ **Citizenship**        
+The Citizens' House works in collaboration with the Token House to establish criteria for participation in the Citizens' House. This means that the requirements for citizenship may evolve and be determined by the collective governance of the community. The AttestationStation contract plays a crucial role in this process, as it is a neutral and permissionless contract that is used to determine the set of citizens based on reputation data.
+
+### Number of Citizens
+
+The number of citizens responsible for voting keeps on increasing in every RetroPGF round as depicted in the diagram below:
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1696872928453_untitled-2023-09-20-1744.png"/>
+</div>
+
+### Citizenship - Now & Future
+
+The current phase of Citizens' House governance is seeing an increase in the number of voting badges with each round of RetroPGF. This shows that the community is growing and more individuals are being given the opportunity to participate in the decision-making process. However, it is important to note that voting in a specific round does not guarantee permanent participation in the Citizens' House or future iterations of RetroPGF.
+
+In the future, the goal is to have a widely distributed citizenship across the Optimism ecosystem. This means that individuals from various subcultures and industries will have the opportunity to become citizens and contribute their expertise to the community. However, it is also important to recognize that the criteria for citizenship may change as the governance of the community evolves. 
+ **RetroPGF**        
+### Retroactive Public Goods Funding
+
+RetroPGF, is an initiative that aims to provide financial support for public goods that are developed and utilized within the Optimism Stack (OP Stack). The idea behind RetroPGF is to reward builders who make a positive impact on the community by allowing them to profit from their contributions. It questions the purpose of building free software for the public good if there is no merit or benefit for the builder themselves. 
+
+The funding provided through RetroPGF is given to projects, companies, communities, or other entities that have already proven their value to the Optimism ecosystem. This approach is taken because it is easier to identify projects that have been useful in the past, rather than predicting their future usefulness. By rewarding projects that have already demonstrated their usefulness, RetroPGF ensures better capital allocation and encourages the development of public goods that have a tangible impact.
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1696855437212_untitled-2023-09-21-1651.png"/>
+</div>
+
+### RetroPGF Round 1
+
+The Optimism Collective conducted its first round of Retroactive Public Goods Funding (RetroPGF) in the fourth quarter of 2021. This round aimed to allocate $1 million to fund projects that have provided value to the Optimistic Ethereum ecosystem. A total of 76 projects were nominated, and 58 of them received funding from the badgeholders. The median funding received by a project in RetroPGF 1 was $14,670, while the top 10% of projects received more than $36,919.
+
+The process for RetroPGF Round 1 involved two main stages: badgeholder selection and voting. In this round, 24 badgeholders, consisting of 8 Optimists and 16 Ethereum community members, were chosen to vote on distributing retrofunding to the nominated projects. Anyone could nominate a project during the nomination period by providing the project name, project lead name, project lead email, and impact description. The badgeholders were then provided with a manual and asked to evaluate and vote on the nominated projects.
+
+### RetroPGF Round 2
+
+The Optimism Collective's second round of Retroactive Public Goods Funding took place in the first quarter of 2023. This time, RetroPGF 2 allocated 10 million OP tokens to fund public goods that support the development and usage of the OP Stack. The goal of RetroPGF is to build a global system where positive impact to the collective is rewarded by profit to the individual. In this round, all 195 nominated people and projects were awarded funding by the badgeholders.
+
+The badgeholders played a crucial role in distributing the OP tokens to the projects. For RetroPGF Round 2, badgeholders were selected based on their participation in the previous round, through nomination by Optimism's Token House, and by nomination from other badgeholders. The nomination period allowed anyone to nominate a project by providing its name, impact description, and a link to Github/Twitter. Projects then had to create a profile with general information and a description of their project and its impact.
+
+### RetroPGF Round 3
+
+The third round of Retroactive Public Goods Funding, RetroPGF 3 has commenced in the fall of 2023. This round will allocate 30 million OP tokens to reward contributions that have supported the development and adoption of Optimism. RetroPGF is open to all types of contributors to the Optimism ecosystem, including developers, educators, artists, creators, writers, builders, and evangelists.
+
+To be eligible for RetroPGF, your work should have made an impact in one of the four categories: OP Stack, Collective Governance, Developer Ecosystem, and End User Experience & Adoption. Whether you have enhanced the efficiency and security of the OP Stack, provided impact to governance participants or application developers, or contributed to the end user experience and adoption, you can submit an application for RetroPGF. Voting badges for Round 3 have been distributed to 208 community members. 
+
+RetroPGF aims to fund projects that contribute to the growth and success of the Optimism ecosystem, creating a rich ecosystem and a better economy for all. 
+ **References**        
+https://community.optimism.io/docs/governance/#citizens-house
+
+https://community.optimism.io/docs/governance/citizens-house/
+
+https://community.optimism.io/docs/governance/citizenship/#
+
+https://community.optimism.io/docs/governance/retropgf-1/
+
+https://community.optimism.io/docs/governance/retropgf-2/
+
+https://community.optimism.io/docs/governance/retropgf-3/
+ 
+ 
