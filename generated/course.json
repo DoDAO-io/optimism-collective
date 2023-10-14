@@ -732,6 +732,96 @@
           "uuid": "3893b3f8-2f32-45b3-5fa8-8a3cf9cd6d82",
           "hint": "NoHint",
           "explanation": "The Foundation supports the Optimism protocol by encouraging and enabling the community to contribute to the technical architecture of the protocol. Additionally, it commissions technical research on scalability, security, and decentralization."
+        },
+        {
+          "uuid": "429c935e-37f3-43ca-877d-4a36c3538432",
+          "type": "SingleChoice",
+          "content": "Who governs the Optimism Foundation?",
+          "hint": "NoHint",
+          "explanation": "The Optimism Foundation is governed by a Board of Directors.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Board of Directors",
+              "key": "A"
+            },
+            {
+              "content": "The Optimism Collective",
+              "key": "B"
+            },
+            {
+              "content": "The Cayman Islands Government",
+              "key": "C"
+            },
+            {
+              "content": "The Foundation's Employees",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "3dbd2882-3014-46b4-8f33-709e4bf243fb",
+          "type": "SingleChoice",
+          "content": "What is the legal status of the Optimism Foundation?",
+          "hint": "NoHint",
+          "explanation": "The Optimism Foundation is a Cayman Islands foundation company.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "A US-based Non-profit Organization",
+              "key": "A"
+            },
+            {
+              "content": "A UK-based Charity",
+              "key": "B"
+            },
+            {
+              "content": "A Cayman Islands Foundation Company",
+              "key": "C"
+            },
+            {
+              "content": "A Swiss-based NGO",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "255f6a89-5d63-43e6-8651-98a0657e2138",
+          "type": "SingleChoice",
+          "content": "What is the role of the employees in the Optimism Foundation?",
+          "hint": "NoHint",
+          "explanation": "The employees play a crucial role in carrying out the day-to-day tasks and responsibilities of the foundation.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "They make the strategic decisions for the foundation",
+              "key": "A"
+            },
+            {
+              "content": "They carry out the day-to-day tasks and responsibilities",
+              "key": "B"
+            },
+            {
+              "content": "They oversee the Board of Directors",
+              "key": "C"
+            },
+            {
+              "content": "They are responsible for fundraising",
+              "key": "D"
+            }
+          ]
         }
       ],
       "readings": [],
